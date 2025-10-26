@@ -52,7 +52,6 @@ O layout da rede pode ser visualizado na imagem do esboço da instalação
 <img width="419" height="457" alt="Image" src="https://github.com/user-attachments/assets/55b6f0c0-6618-44a4-8669-aefad5856ce7" />
  <br> </br>
 
-(presente no Gist/Repositório).
 As linhas coloridas no esboço representam o caminho do cabeamento , que, na instalação real, deve seguir por
 **dentro das paredes**. 
 A representação externa foi utilizada para mostrar o caminho percorrido por cada cabo, devido à falta de legibilidade caso fossem sobrepostos nas paredes do desenho.
